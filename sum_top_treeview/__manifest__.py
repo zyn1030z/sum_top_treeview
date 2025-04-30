@@ -2,7 +2,7 @@
     'name': "Widget add sum to top tree view",
     'version': '1.0',
     'depends': ['base'],
-    'author': "zyn1030zz",
+    'author': "hungpt.info",
     'category': 'Category',
     'description': """
     Widget add sum to top tree view
