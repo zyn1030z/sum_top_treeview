@@ -7,6 +7,7 @@
     'description': """
     Widget add sum to top tree view
     """,
+    'license': 'AGPL-3',
     # data files always loaded at installation
     'data': [
         'views/assets.xml'
