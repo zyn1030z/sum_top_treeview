@@ -9,6 +9,7 @@
     """,
     'license': 'AGPL-3',
     'images': ['images/main_1.png'],
+    'website': 'https://hungpt.info/',
     # data files always loaded at installation
     'data': [
         'views/assets.xml'
