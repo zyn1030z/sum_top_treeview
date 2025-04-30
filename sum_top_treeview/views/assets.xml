@@ -3,7 +3,7 @@
 
     <template id="assets_backend" name="many2many_tag_custom_assets_backend1212" inherit_id="web.assets_backend">
         <xpath expr="." position="inside">
-            <script type="text/javascript" src='sum_top_treeview/static/src/js/custom_tree.js'></script>
+            <script type="text/javascript" src='../sum_top_treeview/static/src/js/custom_tree.js'></script>
         </xpath>
     </template>
 </odoo>
