@@ -1,5 +1,5 @@
 {
-    'name': "Widget add sum to top tree view",
+    'name': "Sum Widget for Tree View",
     'version': '1.0',
     'depends': ['base'],
     'author': "hungpt.info",
