@@ -8,7 +8,7 @@
     Widget add sum to top tree view
     """,
     'license': 'AGPL-3',
-    'images': 'static/description/icon.png',
+    'images': ['images/main_1.png'],
     # data files always loaded at installation
     'data': [
         'views/assets.xml'
