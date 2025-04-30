@@ -1,17 +1,16 @@
 {
-    'name': "A Module",
+    'name': "Widget add sum to top tree view",
     'version': '1.0',
     'depends': ['base'],
-    'author': "Author Name",
+    'author': "zyn1030zz",
     'category': 'Category',
     'description': """
-    Description text
+    Widget add sum to top tree view
     """,
     # data files always loaded at installation
     'data': [
-        # 'views/mymodule_view.xml',
+        'views/assets.xml'
     ],
-    # data files containing optionally loaded demonstration data
     'demo': [
         # 'demo/demo_data.xml',
     ],
